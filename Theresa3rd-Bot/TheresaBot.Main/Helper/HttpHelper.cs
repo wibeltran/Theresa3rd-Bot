@@ -78,6 +78,7 @@ namespace TheresaBot.Main.Helper
             return await response.Content.ReadAsStringAsync();
         }
 
+
         /// <summary>
         /// HttpPost
         /// </summary>
